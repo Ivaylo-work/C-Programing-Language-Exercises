@@ -1,0 +1,3 @@
+A test with specific words including special symbols like . \ $ and etc.
+Another test could be done with repeated letters. 
+Special symbols may uncover bugs which 
